@@ -1,0 +1,2 @@
+# TipificadorAbai
+Abai
